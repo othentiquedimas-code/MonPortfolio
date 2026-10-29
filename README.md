@@ -1,7 +1,7 @@
 # Portfolio Fullstack — MVP V1
 
-**État :** Applications initialisées (ticket INF-01). `frontend/` = Vue 3 + Vite + Tailwind CSS ; `backend/` = Laravel 13 API HTTP/JSON.  
-**Pilotage :** Product Owner + copilote, réalisation par agents IA.  
+**État :** Applications initialisées (ticket INF-01). `frontend/` = Vue 3 + Vite + Tailwind CSS ; `backend/` = Laravel 13 API HTTP/JSON.
+**Pilotage :** Product Owner + copilote, réalisation par agents IA.
 **Architecture ARCH-001 : VALIDÉE par le PO.**
 
 ## Objectif
@@ -46,7 +46,7 @@ Les dossiers `frontend/` et `backend/` sont initialisés : il faut exécuter les
 ## Installation et démarrage
 
 ### Prérequis
-- PHP ≥ 8.2 (testé avec PHP 8.3.33)
+- PHP ≥ 8.3 (testé avec PHP 8.3.33)
 - Composer ≥ 2.8
 - Node.js ≥ 20 (testé avec Node v24.12.0, npm 11.10.0)
 
