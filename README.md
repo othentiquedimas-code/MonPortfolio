@@ -59,7 +59,7 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
-L'API est alors disponible sur `http://localhost:8000`.
+Le backend Laravel démarre sur `http://localhost:8000` et sert la page d'accueil HTML par défaut. Les endpoints API JSON seront définis lorsque le contrat API aura été arbitré (décision O-API en attente).
 
 ### Frontend — Vue 3 + Vite + Tailwind CSS
 ```powershell
